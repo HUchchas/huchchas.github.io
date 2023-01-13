@@ -26,7 +26,7 @@ export default function App() {
         <Contact /> */}
       </main>
 
-      <div className="mt-[20rem] text-[10rem] text-blue-500 text-center">
+      <div className="mt-[20rem] text-[3rem] text-blue-500 text-center">
         SITE UNDER CONSTRUCTION
       </div>
 
